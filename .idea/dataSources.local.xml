@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="SQLite - pyDiplomacy" uuid="2a06d41d-c392-48a6-b840-d2b430ac050d">
+      <secret-storage>master_key</secret-storage>
+    </data-source>
+  </component>
+</project>
